@@ -1,1 +1,1 @@
-# tecnoblog
+# tecblog
